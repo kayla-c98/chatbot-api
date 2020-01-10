@@ -1,5 +1,6 @@
 # chatbot-api
-Conversational chatbot API implemented with Python and Flask. Will add error responses later (oh and API key)
+Conversational chatbot API implemented with Python and Flask. Will add error responses later (oh and API key).
+Basically just uses NLTK chatbot
 
 ### Getting Started
 
